@@ -1,7 +1,7 @@
 ﻿var nome = "Felipe";
 var idade = "25";
 
-if (idade > 18)
+if (idade >= 18)
 {
     Console.WriteLine(nome + " é um adulto.");
 }
